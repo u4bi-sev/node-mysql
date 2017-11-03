@@ -30,7 +30,6 @@ CREATE TABLE IF NOT EXISTS `user` (
     PRIMARY KEY (`id`)
 )
 ENGINE          = InnoDB
-DEFAULT CHARSET = latin1
 COMMENT         = 'user table'
 AUTO_INCREMENT  = 1;
 ```
